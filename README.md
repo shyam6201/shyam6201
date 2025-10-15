@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m Shyam , having 1.5+ experience in corporate sector.<br>🎓 Graduated from MIT BSR.<br>👀 I’m interested in Software development .<br>🌱 I’m currently working on Springboot.<br>🏢 I'm currently working at Velocis Private Ltd. (IISPL).
+ Hi, I’m Shyam , having 3+ experience in corporate sector.<br>🎓 Graduated from MIT BSR.<br>👀 I’m interested in Software development .<br>🌱 I’m currently working on Springboot, Spring security and MicroService.<br>🏢 I'm currently working at NetProphets Cyberworks. (IISPL).
 
 
 # 💻 Tech Stack:
